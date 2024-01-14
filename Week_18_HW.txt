@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Homepage</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+</body>
+
+</html>
+<div class="topnav-rigth">
+  <a href="index.html">Rachel Miller </a>
+  <a href="About"> About</a>
+  <a href="Resume"> Resume</a>
+  <a href="Work"> Work</a>
+  <div>
+    </body>
+
+    </html>
+
+    <h1>Hi, I’m Rachel, a product designer that has outstanding taste in art.</h1>
+
+    </body>
+
+    </html>
+
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+      <style>
+        .flex-container {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .flex-container>div {
+          background-color: #f1f1f1;
+          width: 150px;
+          margin: 6px;
+          text-align: center;
+          line-height: 50px;
+          font-size: 30px;
+        }
+      </style>
+    </head>
+
+    <body>
+
+      <div class="flex-container">
+        <h2>Bunny World Foundations</h2>
+        <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+        <h4>Bunny World Foundations / UX Design <h4>
+            <p>The redesign of a non-profit website to save bunnies that were being sold illegally
+              and spread awareness about them, selling them but also adopting them. </p>
+      </div>
+
+      <div class="flex-container">
+        <h2>Loop</h2>
+        <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+        <h4>Loop/UX/UI Design <h4>
+            <p>Loop is an app designed to pay before you park in public parking spaces, where busy places have limited options for parking. </p>
+      </div>
+
+      <div class="flex-container">
+        <h2>TAV</h2>
+        <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+        <h4>TAV/UX/UI Design<h4>
+            <p>TAV is an app design where you can easily decide what activities to do in a group of people wanting to travel and also budget for easy planning. </p>
+      </div>
+
+    </body>
+
+    </html>
+
+    
+
+    <div class="row">
+      <div class="column" style="background-color:#aaa;">
+        <h2>My UX Skills</h2>
+        <p>My UX skills would be more research-oriented, as in making a prota persona,ideas about others for apps or websites,storyboarding,interviewing. skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+      <div class="column" style="background-color:#bbb;">
+        <h2>User Interface Skills </h2>
+        <p>My skills for the user interface are skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+    </div>
+
+      <div class="row">
+      <div class="column" style="background-color:#aaa;">
+        <h2>My UX Skills</h2>
+        <p>My UX skills would be more research-oriented, as in making a prota persona,ideas about others for apps or websites,storyboarding,interviewing. skething,wireframing,prototyping,making vision boards, and color theory and matching.</p>
+      </div>
+
+   
+
+    <h2>About</h2>
+
+    <h4 style="text-align:left;">Hello, let me tell you a little bit about myself. I enjoy creating art occasionally, and you can see my work throughout. I'm also occasionally interested in fashion and creating small pieces of clothing. Please get in touch with me if you want to collaborate.</h4>
+
+    <a href="Racheldm421@gmail.com" </a>
+      <p><a href="Racheldm421@gmail.com">Racheldm421@gmail.com</a></p>
+
+      <a href="Racheldm421@gmail.com" </a>
+        <p><a <p><a href="https://docs.google.com/document/d/1DTnt0qKO4tf4HK7WJDsLFf4E20BwgK_zPfh6KhoPooY/edit">Resume</a></p>
+
+        <a href="Racheldm421@gmail.com" </a>
+          <p><a <p><a href="www.linkedin.com/in/
+rachel-m-160969267">Linkedin</a></p>
+
+          </body>
+
+          </html>
+
+          <div class="flex-container">
+            <p>@2024 Rachel Miller All rights reserved.</p>
+            <div>
+              </body>
+
+              </html>
+
+
+//**CSS**//
+
+h1 {
+  text-align: center;
+}
+
+
+
+.flex-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: center;
+  margin:50xp auto;
+  width: 50%;
+  padding: 20px;
+  height: 200px; 
+}
+
+.column {
+  width: 50%; 
+  margin: 0 auto;
+  text-align: center; 
+}
+
+.row:after {
+  display: row;
+  clear: both;
+  {
+    
+  
+
+
+              
